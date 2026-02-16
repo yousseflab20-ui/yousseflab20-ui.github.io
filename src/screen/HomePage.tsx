@@ -1,5 +1,6 @@
 import "./index.css";
 import Navbar from "../components/Navbar";
+import Projects from "./Projects"
 export default function HomePage() {
   return (
     <div className="bg-black text-white">
@@ -665,6 +666,7 @@ export default function HomePage() {
           </div>
         </section>
       </div>
+       <Projects />
     </div>
   );
 }
