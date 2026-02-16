@@ -4,12 +4,12 @@ const projects = [
   {
     title: "E-commerce Website",
     description: "Online store b React",
-    link: "https://yousseflab20-ui.github.io/project1"
+    link: "/youssef-portfolio/project1/"
   },
   {
     title: "Portfolio",
     description: "My personal portfolio",
-    link: "https://yousseflab20-ui.github.io/project1"
+    link: "/youssef-portfolio/project2/"
   }
 ]
 
